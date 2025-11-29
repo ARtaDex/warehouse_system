@@ -12,8 +12,4 @@ Script sewa gudang FiveM yang memiliki fitur lebih dari script sewa gudang biasa
 ## Dependency
     1. OXMYSQL
     2. OX_INVENTORY
-    3. QBCore
-
-## Preview
-    
-  ![fxmanifest](https://cdn.discordapp.com/attachments/1075683104477429843/1150769649177333782/image.png)
+    3. ESX
